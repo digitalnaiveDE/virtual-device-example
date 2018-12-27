@@ -13,15 +13,6 @@ Install Bespoken CLI to run the scripts. Open a command-line and run this comman
 ```
 npm install bespoken-tools -g
 ```
-### Install project dependencies
-This project utilizes the jest-html-reporter to create an HTML version of the test output.
-
-To enable this, just run:
-```
-npm install
-```
-
-Within the project directory.
 
 ### Get your Virtual Device Token
 First, you need to get a token. See [here for instructions](https://read.bespoken.io/end-to-end/setup/).
@@ -73,8 +64,7 @@ bst test test-directory
 
 That command will run all yml files that are contained within that directory.
 
-That's it! Now just wait, and your tests will run. The results will be shown in the console, as well as summarized in the HTML report at: `<PROJECT_DIR>/test-report.html`
-
+That's it! Now just wait, and your tests will run. The results will be shown in the console.
 
 ## More Info and Docs
 See the full docs for the test scripts [here](https://read.bespoken.io/end-to-end/getting-started/).
