@@ -1,7 +1,7 @@
 {
   "type": "e2e",
   "findReplace": {
-    "SKILL_NAME": "My Skill"
+    "SKILL_NAME": "alexa-1add6310-a738-43c2-a494-42cddfe0bb62"
   },
   "homophones": {
     "bring": ["ring", "bing"],
